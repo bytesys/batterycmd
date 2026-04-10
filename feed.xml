@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BatteryCMD</title>
+    <link href="https://batterycmd.com/feed.xml" rel="self" />
+    <link href="https://batterycmd.com" />
+    <updated>2026-04-10T20:14:28+02:00</updated>
+    <author>
+        <name>BatteryCMD Editorial</name>
+    </author>
+    <id>https://batterycmd.com</id>
+
+    <entry>
+        <title>BatteryCMD: Battery Technology, EV Charging &amp; Energy Storage Workflows</title>
+        <author>
+            <name>BatteryCMD Editorial</name>
+        </author>
+        <link href="https://batterycmd.com/batterycmd-battery-technology-ev-charging-and-energy-storage-workflows.html"/>
+        <id>https://batterycmd.com/batterycmd-battery-technology-ev-charging-and-energy-storage-workflows.html</id>
+
+        <updated>2026-04-10T20:14:28+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Explore practical guides to battery technology, energy storage systems, EV charging infrastructure, and the technical workflows behind modern power systems. BatteryCMD covers battery technology, EV charging, energy storage systems, and practical workflows for understanding the tools, infrastructure, and software behind modern energy systems. ## What&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Explore practical guides to battery technology, energy storage systems, EV charging infrastructure, and the technical workflows behind modern power systems.<br><br>BatteryCMD covers battery technology, EV charging, energy storage systems, and practical workflows for understanding the tools, infrastructure, and software behind modern energy systems.<br><br>## What BatteryCMD covers<br><br>**Battery Technology**<br>Cell chemistry, battery packs, management systems, degradation, safety, and technical trends shaping energy storage.<br><br>**Energy Storage**<br>Grid-scale batteries, home storage, commercial systems, and the software tools used to monitor and manage stored energy.<br><br>**EV Charging**<br>Charging standards, home charging setups, public charging infrastructure, and the systems behind electric mobility.<br><br>**Power Systems**<br>Battery management, charging analytics, load behavior, energy monitoring, and technical workflows for modern electrical systems.<br><br>**Automation**<br>Scripts, command-line tools, monitoring workflows, and data-driven processes for battery and energy analysis.<br><br>Read more</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

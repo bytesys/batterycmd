@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://batterycmd.com/sitemap.xml

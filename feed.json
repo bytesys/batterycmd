@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BatteryCMD",
+    "description": "",
+    "home_page_url": "https://batterycmd.com",
+    "feed_url": "https://batterycmd.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "BatteryCMD Editorial"
+    },
+    "items": [
+        {
+            "id": "https://batterycmd.com/batterycmd-battery-technology-ev-charging-and-energy-storage-workflows.html",
+            "url": "https://batterycmd.com/batterycmd-battery-technology-ev-charging-and-energy-storage-workflows.html",
+            "title": "BatteryCMD: Battery Technology, EV Charging &amp; Energy Storage Workflows",
+            "summary": "Explore practical guides to battery technology, energy storage systems, EV charging infrastructure, and the technical workflows behind modern power systems. BatteryCMD covers battery technology, EV charging, energy storage systems, and practical workflows for understanding the tools, infrastructure, and software behind modern energy systems. ## What&hellip;",
+            "content_html": "<p>Explore practical guides to battery technology, energy storage systems, EV charging infrastructure, and the technical workflows behind modern power systems.<br><br>BatteryCMD covers battery technology, EV charging, energy storage systems, and practical workflows for understanding the tools, infrastructure, and software behind modern energy systems.<br><br>## What BatteryCMD covers<br><br>**Battery Technology**<br>Cell chemistry, battery packs, management systems, degradation, safety, and technical trends shaping energy storage.<br><br>**Energy Storage**<br>Grid-scale batteries, home storage, commercial systems, and the software tools used to monitor and manage stored energy.<br><br>**EV Charging**<br>Charging standards, home charging setups, public charging infrastructure, and the systems behind electric mobility.<br><br>**Power Systems**<br>Battery management, charging analytics, load behavior, energy monitoring, and technical workflows for modern electrical systems.<br><br>**Automation**<br>Scripts, command-line tools, monitoring workflows, and data-driven processes for battery and energy analysis.<br><br>Read more</p>",
+            "author": {
+                "name": "BatteryCMD Editorial"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-10T20:14:28+02:00",
+            "date_modified": "2026-04-10T20:14:28+02:00"
+        }
+    ]
+}
